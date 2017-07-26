@@ -96,7 +96,7 @@ while(main2<100):
 		os.system("python ./Users/"+ main231)
 	elif(main=="update-shell"):
 		print("Trying Updating Shell")
-		os.system("cd .. && ls && ./updater-run")
+		os.system("./updater-run")
 	elif(main==""):
 		pass
 	else:
