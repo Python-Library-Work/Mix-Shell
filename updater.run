@@ -1,0 +1,4 @@
+rm -rf ./main.py ./support.py
+echo "Updater Started..."
+git clone https://github.com/Python-Library-Work/Mix-Shell.git
+echo "Update Completed!!!"
